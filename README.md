@@ -1,7 +1,7 @@
 # Portfolio
 Learn about HTML/CSS/Bootstap through creation. Also, when they are looking for a job, customize it to create your own portfolio. 
 [Live Heroku Development] (https://portfolio-soumik.herokuapp.com/)
-[![Screenshot 2022-04-04 at 7 58 52 PM](https://user-images.githubusercontent.com/102286461/161670512-05834a9d-9eda-4fbb-98d3-840f8b2e199c.png)
+![Screenshot 2022-04-04 at 7 58 52 PM](https://user-images.githubusercontent.com/102286461/161670512-05834a9d-9eda-4fbb-98d3-840f8b2e199c.png)
 ## Tech used
 * HTML
 * css
